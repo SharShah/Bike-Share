@@ -1,21 +1,18 @@
-### *Toman Bike Shop - Bike Share Dashboard*
-#### *Overview*
+# *Toman Bike Shop - Bike Share Dashboard*
+## *Overview*
 This *Power BI Dashboard* provides insights into bike share revenue, ridership trends, profitability, and rider demographics. It enables data-driven decision-making by visualizing key metrics, peak revenue hours, seasonal demand, and rider behavior
 
 ---
 ## *Questions answered*
 
-- When are the peak revenue hours and days?
-  - Identifies the most profitable time periods to optimize operations
-    
-- How do ridership and revenue vary across different seasons?
-  - Helps in understanding seasonal trends and planning marketing strategies
-
-- What is the distribution of registered vs. casual riders?
-  - Provides insights into customer loyalty and potential areas for membership growth
-
-- How has revenue and profit changed between 2021 and 2022?
-  - Measures business growth and financial performance over time
+1. **When are the peak revenue hours and days?**  
+   - Identifies the most profitable time periods to optimize operations.
+2. **How do ridership and revenue vary across different seasons?**  
+   - Helps in understanding seasonal trends and planning marketing strategies.
+3. **What is the distribution of registered vs. casual riders?**  
+   - Provides insights into customer loyalty and potential areas for membership growth.
+4. **How has revenue and profit changed between 2021 and 2022?**  
+   - Measures business growth and financial performance over time.
 ---
 
 ## *Dashboard Features*
