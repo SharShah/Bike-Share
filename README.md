@@ -64,7 +64,7 @@ This *Power BI Dashboard* provides insights into bike share revenue, ridership t
 - *Customer Retention Analysis*: Track returning vs. new riders
 
 ---
-## *Refernces*
+## *References*
 - <a href="https://www.flaticon.com/free-icons/electric-bike" title="electric bike icons">Electric bike icons created by HAJICON - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/bicycle" title="bicycle icons">Bicycle icons created by Delwar018 - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/register" title="register icons">Register icons created by Pixel perfect - Flaticon</a>
